@@ -2,6 +2,9 @@ print("hello world")
 
 print("estoy probando cosas")
 
+<<<<<<< HEAD
+#no se que onda esto
+=======
 
 print("sigo probando cosas")
 
