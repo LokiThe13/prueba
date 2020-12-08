@@ -12,3 +12,11 @@ print("sigo probando cosas")
 #tal vez si?se vber wur nosds
 
 print("sigo prbadosdoao")
+
+no_se_si_funciona = "no_se_si_funciona"
+print(no_se_si_funciona)
+
+
+
+
+
